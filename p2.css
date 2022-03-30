@@ -275,8 +275,11 @@ footer a:hover{
        padding: 30px;
    }
     .menu-icon{
-        margin-left: 95%;
+        margin-left: 90%;
     }
+    nav ul li{
+    margin-right: 10px;
+   }
 }
 /* order */
 .order{

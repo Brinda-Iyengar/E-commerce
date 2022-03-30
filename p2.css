@@ -274,6 +274,9 @@ footer a:hover{
    .heading{
        padding: 30px;
    }
+    .menu-icon{
+        margin-left: 90%;
+    }
 }
 /* order */
 .order{
